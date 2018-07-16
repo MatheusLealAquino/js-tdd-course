@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso js com TDD na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusLealAquino/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "test"
+  ],
+  "author": "Matheus Leal (http://www.matheusleal.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatheusLealAquino/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/MatheusLealAquino/js-tdd-course#readme"
+}
